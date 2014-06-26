@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="OpenERP ODA Dataset" url="http://code.google.com/p/birt-oda-openerp/">
+      OpenERP ODA Datasource and Dataset conectors for using with BIRT Reporting Eclipse.
+   </description>
+   <feature url="features/org.eclipse.birt.report.data.oda.openerp.feature_1.0.0.201302062116.jar" id="org.eclipse.birt.report.data.oda.openerp.feature" version="1.0.0.201302062116">
+      <category name="openerp_oda_birt"/>
+   </feature>
+   <category-def name="openerp_oda_birt" label="OpenERP ODA Dataset"/>
+</site>
